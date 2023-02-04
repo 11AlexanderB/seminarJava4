@@ -1,5 +1,4 @@
-import java.util.LinkedList;
-import java.util.Queue;
+
 
 /**
  * task1:
@@ -40,6 +39,10 @@ import java.util.Queue;
  */
 
 /**
+import java.util.LinkedList;
+import java.util.Queue;
+ * 
+ * 
 public class Program {
     public static void main(String[] args) {
         Queue<Integer> numbers = new LinkedList<>();
